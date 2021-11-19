@@ -5,10 +5,41 @@
     <div id="rev_slider_272_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="webster-slider-6" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
     <!-- START REVOLUTION SLIDER 5.4.6.3 fullwidth mode -->
         <div id="rev_slider_272_1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6.3">
-            <ul>  <!-- SLIDE  -->
-                <li data-index="rs-764" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="revolution/assets/slider-06/100x50_95d68-bg.jpg"  data-delay="7990"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+            <ul>
+                <!-- SLIDE  -->
+                <li data-index="rs-763" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/bg/code.jpg"  data-delay="7980"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                     <!-- MAIN IMAGE -->
-                    <img src="revolution/assets/slider-06/95d68-bg.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                    <img src="images/bg/code.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="slider-parallax typer-banner business bg-overlay-black-50 parallax" data-no-retina>
+                    <div class="slider-content-middle">
+                       <div class="container">
+                         <div class="row">
+                            <div class="col-xl-8 col-lg-12">
+                                <div class="slider-content">
+                                    <strong class="d-block text-white">Trataremos tu empresa como si fuera la nuestra.</strong>
+                                    <h1 class="text-white">Somos apasionados del <span class="theme-color"> Desarrollo Web  </span></h1>
+                                    <p class="text-white mb-40"><b class="theme-color">Descubramos juntos</b> el camino para lograr tus metas.</p>
+                                    <a class="button button-border white" href="#">Comienza ya</a>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-12">
+                             <div class="slider-content text-center">
+                                <h1 class="text-white">While(<span style="color: #c59a4a;">life()</span>){</h1>
+                                <div style="margin-left: 20%;">
+                                    <div>
+                                        <h1 class="text-white"> <span class="typer" data-delay="150" data-words="wakeup();,coffee();,code();,sleep();" data-colors="#c59a4a,#c59a4a,#c59a4a"></span>  <span class="cursor" data-cursorDisplay="|" data-owner="some-id"></span> </h1>
+                                    </div>
+                                </div>
+                                <h1 class="text-white">} <span style="color: #e7d694;">success();</span></h1>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                    </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-index="rs-764" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/bg/desk2.jpg"  data-delay="7990"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                    <!-- MAIN IMAGE -->
+                    <img src="images/bg/desk2.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
 
                     <!-- LAYER NR. 1 -->
@@ -358,9 +389,9 @@
                     style="z-index: 21;"><img src="revolution/assets/slider-06/da328-pc1.png" alt="" data-ww="630px" data-hh="347px" data-no-retina> </div>
                 </li>
                 <!-- SLIDE  -->
-                <li data-index="rs-765" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="revolution/assets/slider-06/100x50_c81f3-ac32d-bg.jpg"  data-delay="8000"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+                <li data-index="rs-765" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/bg/desk1.jpg"  data-delay="8000"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                     <!-- MAIN IMAGE -->
-                    <img src="revolution/assets/slider-06/c81f3-ac32d-bg.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+                    <img src="images/bg/desk1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
                     <!-- LAYERS -->
 
                     <!-- LAYER NR. 18 -->

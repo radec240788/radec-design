@@ -48,22 +48,21 @@ Acerca de nosotros- -->
         <div class="row">
             <div class="col-lg-6">
                 <div class="section-title">
-                    <h6 class="text-white">What we do?</h6>
-                    <h2 class="text-white title-effect">We do things differently</h2>
-                    <p class="text-white">Truly ideal solutions for your business. Create a website that you are gonna be proud of. </p>
+                    <h2 class="text-white">Realizamos proyectos integrales</h2>
+                    <p class="text-white">Ofrecemos herramientas funcionales que solucionen tus problemáticas y puedan ayudar a gestionar tu información.</p>
                 </div> 
-                <p class="text-white">Webster's ultimate, easy to use and customizable UI elements make it most customizable template on the market. quia nesciunt incidunt accusamus necessitatibus. Enim expedita sed quia nesciunt incidunt accusamus necessitatibus</p>
+                <p class="text-white">Somos una agencia digital donde nos especializamos en la creación de páginas web, contamos con estrategias publicitarias que te ayudarán a traer más visitas y te permitirán ofrecer una mejor visualización de tu producto. Podemos crear sitios a la medida desde cero o si ya cuentas con uno te ayudamos a innovarlo.</p>
                 <div class="row mt-30">
                     <div class="col-sm-6">
                         <ul class="list list-unstyled list-hand">
-                            <li class="text-white"> Award-winning design</li>
-                            <li class="text-white"> Super Fast Customer support </li>
+                            <li class="text-white"> Contamos con un plan de desarrollo eficiente </li>
+                            <li class="text-white"> Puedes ver nuestros avances en línea </li>
                         </ul>
                     </div>
                     <div class="col-sm-6">
                         <ul class="list list-unstyled list-hand">
-                            <li class="text-white"> Easy to Customize pages</li>
-                            <li class="text-white"> Powerful Performance </li>
+                            <li class="text-white"> Usamos canales de comunicación digital </li>
+                            <li class="text-white"> Utilizamos herramientas modernas y funcionales </li>
                         </ul>
                     </div>
                 </div>
@@ -83,9 +82,9 @@ Lo que ofrecemos- -->
     <div class="row">
            <div class="col-lg-8">
              <div class="section-title">
-              <h6>Why webster is best! </h6>
-              <h2 class="title-effect">Our awesome core features</h2>
-              <p>Webster's ultimate, easy to use and customizable UI elements make it most customizable template on the market.</p>
+              <h6>Lo que nos hace diferentes</h6>
+              <h2 class="title" style="color: #075E54;">Nuestros puntos clave</h2>
+              <p>En Radec Design nos gusta ser honestos con lo que ofrecemos y queremos darte más por tu dinero. Es por esto, que nuestro enfoque es el siguiente:</p>
             </div>
           </div>            
           </div>
@@ -93,58 +92,58 @@ Lo que ofrecemos- -->
          <div class="col-lg-4 col-sm-6">
           <div class="feature-text left-icon mb-40">
               <div class="feature-icon">
-              <span class="ti-layers-alt theme-color" aria-hidden="true"></span>
+              <span class="ti-layers-alt" style="color: #075E54;" aria-hidden="true"></span>
             </div>
             <div class="feature-info">
-              <h5 class="text-back">Many Style Available</h5>
-              <p>Enim expedita sed quia nesciunt dolor sit consectetur conseqt quibusdam</p>
+              <h5 class="text-back" style="color: #075E54;">Diferentes estilos</h5>
+              <p>Puedes escoger entre una variedad del catálogo o simplemente permítenos ofrecerte un diseño adecuado a tus fines.</p>
             </div>
          </div>
          <div class="feature-text left-icon mb-40">
               <div class="feature-icon">
-              <span class="ti-split-v theme-color" aria-hidden="true"></span>
+              <span class="ti-split-v" style="color: #075E54;" aria-hidden="true"></span>
             </div>
             <div class="feature-info">
-              <h5 class="text-back">Parallax Sections</h5>
-              <p>Quibusdam, enim expedita sed quia nesciunt dolor sit consectetur conseqt </p>
+              <h5 class="text-back" style="color: #075E54;">Desarrollo vertical</h5>
+              <p>Trabajamos profesionalmente tu sitio web para promocionar tus servicios en los siguientes puntos: Diseño, posicionamiento (SEO y SEM), funcionalidad, integración y marketing digital.</p>
             </div>
          </div>
          <div class="feature-text left-icon xs-mb-40">
               <div class="feature-icon">
-              <span class="ti-heart theme-color" aria-hidden="true"></span>
+              <span class="ti-heart" style="color: #075E54;" aria-hidden="true"></span>
             </div>
             <div class="feature-info">
-              <h5 class="text-back">Blog Options</h5>
-              <p>Quia nesciunt dolor sit consectetur <span data-original-title="Sed hendrerit enim non justo" data-toggle="tooltip" data-placement="top" class="tooltip-content">conseqt quibusdam,</span> enim expedita sed </p>
+              <h5 class="text-back" style="color: #075E54;">Amigable</h5>
+              <p>Realizamos nuestros sitios 100% amigables con los browsers y plataformas móviles, así que puedes estar traquilo de que tus visitantes visualizarán el contenido de tu sitio tal como lo deseas, pues se mantendrá con calidad y excelente visualización.</p>
             </div>
          </div>
          </div>
          <div class="col-lg-4 col-sm-6">
              <div class="feature-text left-icon mb-40">
              <div class="feature-icon"><span
-              class="ti-image theme-color" aria-hidden="true"></span>
+              class="ti-image" style="color: #075E54;" aria-hidden="true"></span>
             </div>
             <div class="feature-info">
-              <h5 class="text-back">Revolution Slider</h5>
-              <p>Consectetur dolor sit <span data-original-title="Sed hendrerit enim non justo" data-toggle="tooltip" data-placement="top" class="tooltip-content">conseqt quibusdam,</span> enim expedita sed quia nesciunt</p>
+              <h5 class="text-back" style="color: #075E54;">Multimedia </h5>
+              <p>Contamos con temas que gozan de armonía entre sus gráficos haciéndolos vistosos, versátiles y eficientes con una interfaz gráfica atractiva para los clientes.</p>
             </div>
          </div>
          <div class="feature-text left-icon mb-40">
               <div class="feature-icon">
-              <span class="ti-paint-bucket theme-color" aria-hidden="true"></span>
+              <span class="ti-desktop" style="color: #075E54;" aria-hidden="true"></span>
             </div>
             <div class="feature-info">
-              <h5 class="text-back">Unlimited Colors</h5>
-              <p>Quia nesciunt dolor sit consectetur conseqt quibusdam, enim expedita sed </p>
+              <h5 class="text-back" style="color: #075E54;">Diferentes tipos de desarrollo</h5>
+              <p>Ponemos a tu disposición los diversos tipos de páginas web y te orientamos en lo que verdaderamente necesitas. Desde CRM´s, Landing pages, e-Commerce, Administradores, sitios RAW.</p>
             </div>
          </div>
          <div class="feature-text left-icon">
               <div class="feature-icon">
-              <span class="ti-star theme-color" aria-hidden="true"></span>
+              <span class="ti-star" style="color: #075E54;" aria-hidden="true"></span>
             </div>
             <div class="feature-info">
-              <h5 class="text-back">and much more...</h5>
-              <p>Enim expedita sed quia nesciunt dolor sit consectetur conseqt quibusdam</p>
+              <h5 class="text-back" style="color: #075E54;">Tú sitio a la medida</h5>
+              <p>Podemos crear tu sitio a partir de tus necesidades, incorporando tecnologías como PHP, Python, Js, frameworks como Code Igniter o Laravel, AWS services, API´s, REST services entre otros.</p>
             </div>
          </div>
          </div>
@@ -158,35 +157,35 @@ Lo que ofrecemos- -->
 <!--=================================
 counter --> 
 
-<section class="page-section-ptb theme-bg text-white position-relative">
+<section class="page-section-ptb theme-bg text-white position-relative" style="background-color: #075E54;">
   <div class="container">
    <div class="row">
         <div class="col-lg-3 col-sm-6 sm-mb-30">
         <div class="counter left-icon text-white">
           <span class="icon ti-user theme-color" aria-hidden="true"></span>
-          <span class="timer" data-to="4905" data-speed="10000">4905</span>
-          <label>ORDERED COFFEE'S</label>
+          <span class="timer" data-to="7" data-speed="10000">7</span>
+          <label>Empresas satisfechas</label>
         </div>
       </div>
        <div class="col-lg-3 col-sm-6 sm-mb-30">
         <div class="counter left-icon text-white">
-         <span class="icon ti-help-alt theme-color" aria-hidden="true"></span>
-          <span class="timer" data-to="3750" data-speed="10000">3750</span>
-          <label>QUESTIONS ANSWERED</label>
+         <span class="icon ti-menu-alt theme-color" aria-hidden="true"></span>
+          <span class="timer" data-to="272750" data-speed="10000">272750</span>
+          <label>Líneas codificadas</label>
         </div>
       </div>
        <div class="col-lg-3 col-sm-6 xs-mb-30">
         <div class="counter left-icon text-white">
-          <span class="icon ti-check-box theme-color" aria-hidden="true"></span>
-          <span class="timer" data-to="4782" data-speed="10000">4782</span>
-          <label>COMPLETED PROJECTS</label>
+          <span class="icon ti-bag theme-color" aria-hidden="true"></span>
+          <span class="timer" data-to="36" data-speed="10000">36</span>
+          <label>Proyectos completados</label>
         </div>
       </div>
        <div class="col-lg-3 col-sm-6">
         <div class="counter left-icon text-white">
-          <span class="icon ti-face-smile theme-color" aria-hidden="true"></span>
-          <span class="timer" data-to="3237" data-speed="10000">3237</span>
-          <label>HAPPY CLIENTS</label>
+          <span class="icon ti-agenda theme-color" aria-hidden="true"></span>
+          <span class="timer" data-to="9" data-speed="10000">9</span>
+          <label>Programas de mejora</label>
         </div>
       </div>
     </div>
@@ -204,8 +203,8 @@ counter -->
      <div class="row">
      <div class="col-lg-12 col-md-12">
          <div class="section-title text-center">
-            <h6>Have a look at our </h6>
-            <h2 class="title-effect">Client Opinions & Reviews</h2>
+            <h6>Lee algunas... </h6>
+            <h2 class="title" style="color: #075E54;">Opiniones de nuestros clientes</h2>
           </div>
        </div>
     </div>
@@ -214,22 +213,29 @@ counter -->
       <div class="owl-carousel" data-nav-dots="true" data-items="2" data-md-items="2" data-sm-items="2" data-xs-items="1" data-xx-items="1">
        <div class="item"><div class="testimonial bottom_pos">
             <div class="testimonial-avatar"> <img alt="" src="images/team/01.jpg"> </div>
-            <div class="testimonial-info"> Excellent Customer support! These guys reply within minutes sometimes and really help you with when you need them. The template itself is very extended as well. Happy with my purchase!</div>
-            <div class="author-info"> <strong>15Twelve - <span>ThemeForest user</span></strong> </div>
+            <div class="testimonial-info"> La interfaz de nuestro sitio web nos permitió ver de manera óptima y fluida la información plasmada dentro de ella, logrando que fuera amigable con los usuarios a través de consultas rápidas a nuestra base de datos. Brindándole un aspecto mejorado.</div>
+            <div class="author-info"> <strong>Alejandro Ayala - <span style="color: #075E54;">Dirección de Tecnología Fondo de Cultura Económica</span></strong> </div>
         </div>
         </div>
         <div class="item">
          <div class="testimonial bottom_pos">
             <div class="testimonial-avatar"> <img alt="" src="images/team/02.jpg"> </div>
-            <div class="testimonial-info"> One of the most complete template here. Thanks a lot for such great features, pages, shortcodes and home variations. Incredible Job. And the best of all, great introductions</div>
-            <div class="author-info"> <strong>Xerracol - <span>ThemeForest user</span></strong> </div>
+            <div class="testimonial-info"> La estrategia empleada en nuestra plataforma generó un nuevo cursor de pagos sin complicaciones con nuestros clientes, permitiendo un enlace orgánico y ágil optimizando nuestros recursos para una mejora en nuestro servicio.</div>
+            <div class="author-info"> <strong>Pablo Pinto - <span style="color: #075E54;">Director General Serverware</span></strong> </div>
         </div>
         </div>
         <div class="item">
          <div class="testimonial bottom_pos">
             <div class="testimonial-avatar"> <img alt="" src="images/team/03.jpg"> </div>
-             <div class="testimonial-info"> This is a well put together template and the developer offers great support. I've been in contact with them and the response was prompt and everything has been taken care of.</div>
-            <div class="author-info"> <strong>Warble - <span>ThemeForest user</span></strong> </div>
+             <div class="testimonial-info"> Al trabajar en colaboración con el ingeniero Fernando Valdovinos se logró innovar diversas plataformas donde reunimos conocimientos y plasmamos ideas en conjunto, logrando la optimización de diversos recursos para cubrir las necesidades de nuestro cliente final.</div>
+            <div class="author-info"> <strong>Luis Ponce - <span style="color: #075E54;">CTO Link2Soft</span></strong> </div>
+          </div>
+         </div>
+        <div class="item">
+         <div class="testimonial bottom_pos">
+            <div class="testimonial-avatar"> <img alt="" src="images/team/04.jpg"> </div>
+             <div class="testimonial-info"> Logramos un trabajo óptimo ampliando el catálogo de servicios que ofrecía la empresa Softek, y mediante la tercialización de servicios ahorramos tiempos y recursos para la misma.</div>
+            <div class="author-info"> <strong>Rolando Nájera - <span style="color: #075E54;">Integration Manager en Softek</span></strong> </div>
           </div>
          </div>
      </div>
@@ -249,8 +255,8 @@ counter -->
       <div class="row">
        <div class="col-12">
         <div class="section-title text-center">
-          <h6 class="text-white">Choose from best of three plans</h6>
-          <h3 class="text-white">Affordable Pricing</h3>
+          <h6 class="text-white">Escoge el plan que mejor se adapte a tu presupuesto</h6>
+          <h3 class="text-white">Precios accesibles</h3>
         </div>
         </div>
       </div>
@@ -259,7 +265,7 @@ counter -->
                <div class="pricing-table dark-theme-bg text-center">
                  <div class="pricing-top border-0">
                    <div class="pricing-title">
-                     <h3 class="mb-15 text-white">Basic</h3>
+                     <h3 class="mb-15 text-white">Basico</h3>
                      <p class="text-white">In this package dolor sit amet</p>
                    </div>
                   <hr class="light mt-30">
@@ -570,8 +576,9 @@ counter -->
 </div>
 
   
+<div id="_evidon_banner" class="evidon-banner animate-start" role="dialog" aria-label="Cookie notice banner" style="width: 100%; display: flex; flex: 1 1 0%; background: rgb(247, 245, 242); font-size: 14px; color: rgb(51, 51, 51); padding: 24px 48px; z-index: 10001; box-sizing: border-box; font-family: &quot;Atlas Grotesk Web&quot;, &quot;Atlas Grotesk&quot;, AtlasGrotesk, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; position: fixed; bottom: 0px; text-size-adjust: 100%; visibility: visible;"><div id="_evidon-message" class="evidon-banner-message" style="margin-right: 48px; margin-left: 60px; color: rgb(30, 25, 25); font-size: 12px; font-weight: 400; line-height: 16px; text-align: left; width: 100%; align-self: center;">Utilizamos cookies con el fin de ofrecer, mejorar, proteger y promocionar nuestros servicios. Para obtener más información, visita nuestra <a href="https://www.dropbox.com/privacy" target="_blank" rel="noopener noreferrer">Política de privacidad</a> y <a href="https://help.dropbox.com/accounts-billing/security/privacy-policy-faq" target="_blank" rel="noopener noreferrer">la sección de preguntas frecuentes de la misma</a>. Puedes cambiar tus preferencias enviando un correo a soporte@radec-design.com.mx</div><button id="_evidon-decline-button" class="evidon-banner-declinebutton" tabindex="0" style="display: flex; flex-flow: column nowrap; flex-shrink: 0; justify-content: center; align-self: center; border: 1px solid rgb(30, 25, 25); background: rgb(247, 245, 242); color: rgb(30, 25, 25); padding: 9px 20px; cursor: pointer; font-size: 16px; line-height: 26px; order: 2; font-family: &quot;Atlas Grotesk Web&quot;, &quot;Atlas Grotesk&quot;, AtlasGrotesk, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;">Rechazar</button><button id="_evidon-accept-button" class="evidon-banner-acceptbutton" tabindex="0" aria-label="Aceptar todo" style="display: flex; flex-flow: column nowrap; justify-content: center; align-self: center; flex-shrink: 0; border: 1px solid rgb(30, 25, 25); color: rgb(250, 250, 250); background: rgb(30, 25, 25); padding: 9px 20px; cursor: pointer; margin: 0px 16px; font-size: 16px; line-height: 26px; order: 3; font-family: &quot;Atlas Grotesk Web&quot;, &quot;Atlas Grotesk&quot;, AtlasGrotesk, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;;">Aceptar todo</button></div>
 
-<div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-angle-up"></i> <span>TOP</span></a></div>
+<div id="back-to-top"><a class="top arrow" href="#top"><i class="fa fa-angle-up"></i> <span>Inicio</span></a></div>
  
 <!--=================================
  jquery -->
@@ -604,16 +611,15 @@ counter -->
 
 <!-- custom -->
 <script src="js/custom.js"></script>
+<script src="js/actions.js"></script>
 
- <!-- Código de instalación Cliengo para  https://www.radec-design.com.mx -->
-<script type="text/javascript">(function () {
-    var ldk = document.createElement('script');
-    ldk.type = 'text/javascript';
-    ldk.async = true;
-    ldk.src = 'https://s.cliengo.com/weboptimizer/618416fa3d689f002a8cc05e/618418ddc4176e002a26f72d.js?platform=onboarding_modular';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(ldk, s);
-})();</script>
+<!-- Código de instalación Cliengo para Radec Design --> 
+<script type="text/javascript">(function () { 
+    var ldk = document.createElement('script'); ldk.type = 'text/javascript'; ldk.async = true; 
+    ldk.src = 'https://s.cliengo.com/weboptimizer/618416fa3d689f002a8cc05e/618416fd3d689f002a8cc063.js?platform=view_installation_code'; 
+    var s = document.getElementsByTagName('script')[0]; 
+    s.parentNode.insertBefore(ldk, s); })();
+</script>
 
 </body>
 </html>

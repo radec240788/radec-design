@@ -91,7 +91,7 @@ Page section margin padding
 /*************************
     Text color
 *************************/
-.theme-color { color: #84ba3f; }
+.theme-color { color: #c59a4a; }
 .text-white { color: #fff; }
 .text-black { color: #363636; }
 .text-gray { color: #999999; }
@@ -135,6 +135,7 @@ section { background: #ffffff; }
 #back-to-top .top { z-index: 999; position: fixed; margin: 0px; color: #fff; transition:all .5s ease-in-out; position:fixed; bottom:105px; right:15px; border-radius: 3px; z-index: 999; background: transparent; font-size: 14px; background: #84ba3f; width: 40px; height: 40px; text-align: center; }
 #back-to-top i { padding-top: 2px; font-size: 20px; }
 #back-to-top span { display: block; line-height: 8px; font-size: 11px; }
+#ldkwsp-collapsed-height { bottom: 105px; }
   
  /*************************
   Basic margin padding
