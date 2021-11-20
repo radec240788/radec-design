@@ -20,28 +20,8 @@
         <!-- menu links -->
         <div class="menu-bar">
          <ul class="menu-links">
-         <li><a href="javascript:void(0)">Home <i class="fa fa-angle-down fa-indicator"></i></a>
-                <!-- drop down full width -->
-                <div class="drop-down grid-col-6">
-                    <!--grid row-->
-                    <div class="grid-row">
-                        <!--grid column 3-->
-                        <div class="grid-col-6">
-                            <ul>
-                              <li><a href="index-01.html">Webster default <span class="badge badge-primary">Default</span> </a></li>
-                              <li><a href="index-02.html">Classic Business </a></li>
-                              
-                            </ul>
-                        </div>
-                        <!--grid column 3-->
-                        <div class="grid-col-6">
-                            <ul>
-                              <li><a href="index-portfolio-creative.html">Portfolio creative <span class="badge badge-primary">New</span> </a></li>
-                              <li><a href="index-portfolio-02.html">Portfolio Metro</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+            <li><a href="./">Inicio </a>
+                
             </li>
             <li><a href="javascript:void(0)"> Features <i class="fa fa-angle-down fa-indicator"></i></a>
                  <!-- drop down multilevel  -->

@@ -213,7 +213,7 @@ counter -->
       <div class="owl-carousel" data-nav-dots="true" data-items="2" data-md-items="2" data-sm-items="2" data-xs-items="1" data-xx-items="1">
        <div class="item"><div class="testimonial bottom_pos">
             <div class="testimonial-avatar"> <img alt="" src="images/team/01.jpg"> </div>
-            <div class="testimonial-info"> La interfaz de nuestro sitio web nos permitió ver de manera óptima y fluida la información plasmada dentro de ella, logrando que fuera amigable con los usuarios a través de consultas rápidas a nuestra base de datos. Brindándole un aspecto mejorado.</div>
+            <div class="testimonial-info"> La interfaz de nuestro sitio web nos permitió ver de manera óptima y fluida la información plasmada dentro de ella, logrando que fuera amigable con los usuarios a través de consultas rápidas a nuestra base de datos; brindándole un aspecto mejorado.</div>
             <div class="author-info"> <strong>Alejandro Ayala - <span style="color: #075E54;">Dirección de Tecnología Fondo de Cultura Económica</span></strong> </div>
         </div>
         </div>
@@ -265,39 +265,126 @@ counter -->
                <div class="pricing-table dark-theme-bg text-center">
                  <div class="pricing-top border-0">
                    <div class="pricing-title">
-                     <h3 class="mb-15 text-white">Basico</h3>
-                     <p class="text-white">In this package dolor sit amet</p>
+                     <h3 class="mb-15 text-white">Básico</h3>
+                     <p class="text-white">Recomendado para negocios y personas </p>
                    </div>
                   <hr class="light mt-30">
                    <div class="pricing-prize mb-0">
-                     <h2 class="text-white">$49 /<span> month</span> </h2>
+                     <h2 class="text-white">$6,000 /<span> Pago único</span> </h2>
                    </div>
                  </div>
                  <div class="pricing-content mt-0 pb-30">
-                  <p class="text-white">There are basically six key areas to higher achievement. Some people will tell you.</p>
-                  <div class="pricing-button mt-30">
-                     <a class="button button-border white" href="#">Sign Up</a>
-                   </div>
+                  <p class="text-white">
+                    <ul class="list list-unstyled mb-30" style="color: white;">
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            12 meses de dominio GRATIS.
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            12 meses de hosting GRATIS.
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            Compatible en dispositivos móviles (Responsive design).
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            Certificado SSL.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            1 Sección / Pestaña /Página.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Optimización SEO básica.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Tu sitio web completamente personalizado. Hecho a la medida de tu proyecto.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Formulario de contacto, números de contacto, iconos de redes sociales.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Redacción de textos con un lenguaje acorde al público al que va dirigida la página.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Elección de imágenes con óptima calidad y que tengan impacto.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Diseños acordes a tu sitio como bordes, paleta de colores y estilos.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Integración con WhatsApp business. *1
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            1 Cuenta de correo con tu dominio (minombre@midominio.com).
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            1 Módulo de contenido con 3 Imágenes rotativas (galería principal / slider) para que se vea mejor el contenido multimedia en tu página.
+                        </li>
+                    </ul>
+                    </p>
                  </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-4 ">
-              <div class="pricing-table active theme-bg text-center">
+              <div class="pricing-table active text-center" style="background-color: #075E54;">
                  <div class="pricing-top border-0">
                    <div class="pricing-title">
-                     <h3 class="mb-15 text-white">Standard</h3>
-                     <p class="text-white">Suitable for medium sit amet officia</p>
+                     <h3 class="mb-15 text-white">Premium</h3>
+                     <p class="text-white">Para empresas que buscan algo mas allá de un sitio web</p>
                    </div>
                   <hr class="light mt-30">
                    <div class="pricing-prize mb-0">
-                     <h2 class="text-white">$129 /<span> month</span> </h2>
+                     <h2 class="text-white">desde $20,000 /<span> Pago mediante etapas</span> </h2>
                    </div>
                  </div>
                  <div class="pricing-content mt-0 pb-30">
-                  <p class="text-white">There are basically six key areas to higher achievement. Some people will tell you.</p>
-                  <div class="pricing-button mt-30">
-                     <a class="button button-border white" href="#">Sign Up</a>
-                   </div>
+                  <p class="text-white">
+                    <ul class="list list-unstyled mb-30" style="color: white;">
+                        <li style="color: #e7d694;"> <i class="fa fa-check"></i> 
+                            12 meses de dominio GRATIS. (Si ya cuentas con uno, se integra)
+                        </li>
+                        <li style="color: #e7d694;"> <i class="fa fa-check"></i> 
+                            12 meses de hosting GRATIS. (Si ya cuentas con uno, se integra)
+                        </li>
+                        <li style="color: #e7d694;"> <i class="fa fa-check"></i> 
+                            Compatible en dispositivos móviles (Responsive design).
+                        </li>
+                        <li style="color: #e7d694;"> <i class="fa fa-check"></i> 
+                            Certificado SSL.
+                        </li>
+                        <li style="color: #e7d694;"> <i class="fa fa-check"></i> 
+                            Optimizamos tu sitio para que aparezca en Google con 3 palabras clave
+                        </li>
+                        <li style="color: #e7d694;"> <i class="fa fa-check"></i> 
+                            Secciones / Pestañas /Páginas las que requiera el proyecto.
+                        </li>
+                        <li style="color: #e7d694;"> <i class="fa fa-check"></i> 
+                            Uso de frameworks como Laravel o CodeIgniter.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Optimización SEO básica. (Si es requerido)
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Tu sitio web completamente personalizado. Hecho a la medida de tu proyecto.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Formulario de contacto, números de contacto, iconos de redes sociales.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Redacción de textos con un lenguaje acorde al público al que va dirigida la página.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Elección de imágenes con óptima calidad y que tengan impacto.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Diseños acordes a tu sitio como bordes, paleta de colores y estilos.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Integración con WhatsApp business. *1
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            Cuentas de correo con tu dominio (minombre@midominio.com) las que se requieran y dependiendo del alcance.
+                        </li>
+                    </ul>
+                    </p>
                  </div>
               </div>
             </div>
@@ -305,20 +392,65 @@ counter -->
                <div class="pricing-table dark-theme-bg text-center">
                  <div class="pricing-top border-0">
                    <div class="pricing-title">
-                     <h3 class="mb-15 text-white">Premium</h3>
-                     <p class="text-white">Best for unlimited tempor incididunt</p>
+                     <h3 class="mb-15 text-white">Empresarial</h3>
+                     <p class="text-white">Para empresas medianas o proyectos sustanciales</p>
                    </div>
                   <hr class="light mt-30">
                    <div class="pricing-prize mb-0">
-                     <h2 class="text-white">$99 /<span> month</span> </h2>
+                     <h2 class="text-white">$14,500 /<span> Pago en dos etapas</span> </h2>
                    </div>
                  </div>
                  <div class="pricing-content mt-0 pb-30">
-                  <p class="text-white">There are basically six key areas to higher achievement. Some people will tell you.</p>
-                  <div class="pricing-button mt-30">
-                     <a class="button button-border white" href="#">Sign Up</a>
-                   </div>
-                 </div>
+                  <p class="text-white">
+                    <ul class="list list-unstyled mb-30" style="color: white;">
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            12 meses de dominio GRATIS.
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            12 meses de hosting GRATIS.
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            Compatible en dispositivos móviles (Responsive design).
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            Certificado SSL.
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            Optimizamos tu sitio para que aparezca en Google con 1 palabra clave
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            Hasta 7 Secciones / Pestañas /Páginas ó en su defecto CRM (Wordpress).
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Optimización SEO básica.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Tu sitio web completamente personalizado. Hecho a la medida de tu proyecto.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Formulario de contacto, números de contacto, iconos de redes sociales.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Redacción de textos con un lenguaje acorde al público al que va dirigida la página.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Elección de imágenes con óptima calidad y que tengan impacto.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Diseños acordes a tu sitio como bordes, paleta de colores y estilos.
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            Integración con WhatsApp business. *1
+                        </li>
+                        <li style="color: #c59a4a;"> <i class="fa fa-check"></i> 
+                            3 Cuentas de correo con tu dominio (minombre@midominio.com).
+                        </li>
+                        <li> <i class="fa fa-check"></i> 
+                            1 Módulo de contenido con 3 Imágenes rotativas (galería principal / slider) para que se vea mejor el contenido multimedia en tu página.
+                        </li>
+                    </ul>
+                  </p>
+              </div>
               </div>
             </div>
         </div>
@@ -336,8 +468,8 @@ counter -->
     <div class="row justify-content-center">
       <div class="col-md-8">
         <div class="section-title text-center">
-          <h6>Meet our Superheros</h6>
-          <h3>Our creative team and start rowing. Execution is the single biggest</h3>
+          <h6>Conoce a nuestro equipo</h6>
+          <h3>Nuevas tendencias en nuestras áreas a nivel mundial.</h3>
         </div>
       </div>
     </div>
@@ -345,12 +477,12 @@ counter -->
         <div class="col-lg-4 col-md-4 sm-mb-30">
            <div class="team">
               <div class="team-photo">
-                <img class="img-fluid mx-auto" src="images/team/21.jpg" alt=""> 
+                <img class="img-fluid mx-auto" style="width:200px; height:200px;" src="images/team/07.jpg" alt=""> 
               </div>    
               <div class="team-description"> 
                 <div class="team-info"> 
-                   <h5><a href="team-single.html"> Martin Smith</a></h5>
-                   <span>CEO</span>
+                   <h5><a href="team-single.html"> Fernando Valdovinos</a></h5>
+                   <span>CEO and DevOps</span>
                 </div>
                </div>
            </div>
@@ -358,12 +490,12 @@ counter -->
           <div class="col-lg-4 col-md-4 sm-mb-30">
            <div class="team">
               <div class="team-photo">
-                <img class="img-fluid mx-auto" src="images/team/22.jpg" alt=""> 
+                <img class="img-fluid mx-auto" style="width:200px; height:200px;" src="images/team/05.jpg" alt=""> 
               </div>    
               <div class="team-description"> 
                 <div class="team-info"> 
-                   <h5><a href="team-single.html"> Paul Flavius</a></h5>
-                   <span>Design</span>
+                   <h5><a href="team-single.html"> Kenia Naranjo</a></h5>
+                   <span>Marketing leader</span>
                 </div>
                </div>
            </div>
@@ -371,12 +503,12 @@ counter -->
           <div class="col-lg-4 col-md-4 xs-mb-30">
            <div class="team">
               <div class="team-photo">
-                <img class="img-fluid mx-auto" src="images/team/23.jpg" alt=""> 
+                <img class="img-fluid mx-auto" style="width:200px; height:200px;" src="images/team/06.jpg" alt=""> 
               </div>    
               <div class="team-description"> 
                 <div class="team-info"> 
-                   <h5><a href="team-single.html"> Anne Smith</a></h5>
-                   <span>Community</span>
+                   <h5><a href="team-single.html"> Francisco Valdéz</a></h5>
+                   <span>Programming leader</span>
                 </div>
                </div>
            </div>
