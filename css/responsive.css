@@ -18,7 +18,7 @@ NOTE: This file contains responsive Media Queries of the Template. You can edit/
        1700px
 *************************/    
 @media (max-width: 1700px) {
-
+.evidon-banner { display: flex; }
 .portfolio-title { padding: 60px 60px 30px; }
 /*home-4  */
 .our-blog .blog-box-image { max-height: 286px; }
@@ -44,7 +44,7 @@ NOTE: This file contains responsive Media Queries of the Template. You can edit/
 } 
 
 @media (max-width: 1500px) {
-
+.evidon-banner { display: flex; }
 .portfolio-home .section-title p { font-size: 16px; }
 /*home-4  */
 .our-blog .blog-box-image { max-height: 262px; }
@@ -71,7 +71,7 @@ NOTE: This file contains responsive Media Queries of the Template. You can edit/
 }
 
 @media (max-width: 1400px) {
-
+.evidon-banner { display: flex; }
 .portfolio-title { padding:40px 40px 0px; }
 .portfolio-home .portfolio-title.section-title { margin-bottom: 20px !important; }
 .portfolio-home .portfolio-title.section-title .button.mt-30 { margin-top: 10px !important; }
@@ -125,6 +125,7 @@ NOTE: This file contains responsive Media Queries of the Template. You can edit/
 }
 
 @media (max-width: 1272px) {
+.evidon-banner { display: flex; }
 .our-blog .blog-box-image { max-height: 185px; }
 .our-blog .blog-box-info { max-height: 185px; }
 .our-blog .blog-box-image .portfolio-caption .port-tag li { margin-top: 0px; }
@@ -173,10 +174,12 @@ NOTE: This file contains responsive Media Queries of the Template. You can edit/
 }
 
 @media (min-width: 1200px) {
+.evidon-banner { display: flex; }
 .container { max-width: 1170px; }
 }
 
 @media (max-width: 1200px) {
+.evidon-banner { display: flex; }
 .login-2-social li {margin: 0 3px;}
 h2 {font-size: 28px;}
 h4 {font-size: 18px;}
@@ -353,9 +356,11 @@ h4 {font-size: 18px;}
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1500px) {
+.evidon-banner { display: flex; }
 .vertical-header .container { max-width: auto; }
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
+.evidon-banner { display: flex; }
 .container { max-width: 94%; }
 /* about-1 */
 .feature-step-2 .feature-step-2-title-2-right h2 {  padding-bottom: 5px; margin-bottom: 5px; }
@@ -368,6 +373,7 @@ h4 {font-size: 18px;}
 
 
 @media (max-width: 1025px) {
+.evidon-banner { display: flex; }
 .mega-menu .menu-links > li > a { padding: 10px 8px; }
 .portfolio-title { padding:30px 30px 30px; }
  /*error*/
@@ -449,6 +455,7 @@ h4 {font-size: 18px;}
 } 
 
 @media only screen and (min-width: 768px) and (max-width: 999px) {
+.evidon-banner { display: none; }
  .container{ max-width:96%; } 
 }
 
@@ -1140,6 +1147,7 @@ header.one-page.light .navbar-inverse .navbar-collapse, header.one-page.light .n
 }
 
 @media(max-width:767px) {
+.evidon-banner { display: none; }
 /*************************
      Margin top
 *************************/ 
@@ -1557,7 +1565,12 @@ ul.page-breadcrumb { padding-top: 30px;}
 
 }
 
+@media(max-width:400px) {
+.evidon-banner { display: none; }
+}
+
 @media(max-width:600px) {
+.evidon-banner { display: none; }
 h3 { font-size: 22px; }
 .search-box { width: 210px; }
 .section-title p { font-size: 16px; }
@@ -1838,7 +1851,7 @@ h3 { font-size: 22px; }
 
 
 @media(max-width:479px) { 
-
+.evidon-banner { display: none; }
 /*************************
      Margin top
 *************************/ 

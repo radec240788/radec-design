@@ -532,8 +532,8 @@ counter -->
             <i class="ti-map text-white"></i>
           </div>
           <div class="contact-info">
-            <h5 class="text-white"> 17504 Carlton Cuevas Rd</h5>
-            <span class="text-white">Gulfport, MS, 39503</span>
+            <h5 class="text-white"> Cuahutémoc 63-.</h5>
+            <span class="text-white">Ciudad de México</span>
           </div>
         </div>
       </div>
@@ -543,8 +543,8 @@ counter -->
             <i class="ti-headphone text-white"></i>
           </div>
           <div class="contact-info">
-            <h5 class="text-white">+(704) 279-1249</h5>
-            <span class="text-white">Mon-Fri 8:30am-6:30pm</span>
+            <h5 class="text-white">55 4906 9544</h5>
+            <span class="text-white">Lun - Sab 9:30am - 7:30pm</span>
           </div>
         </div>
       </div>
@@ -554,8 +554,8 @@ counter -->
             <i class="ti-email text-white"></i>
           </div>
           <div class="contact-info">
-            <h5 class="text-white">letstalk@webster.com</h5>
-          <span class="text-white">24 X 7 online support</span>
+            <h5 class="text-white">ventas@radec-design.com.mx</h5>
+          <span class="text-white">12 X 7 soporte online</span>
             </div>
         </div>
       </div>
@@ -574,8 +574,8 @@ counter -->
     <div class="row">
      <div class="col-lg-12 col-md-12">
          <div class="section-title text-center">
-            <h6>Fresh Webster News</h6>
-            <h2 class="title-effect">Latest Articles</h2>
+            <h6>Herramientas de desarrollo</h6>
+            <h2 class="title-effect">Artículos de interés</h2>
           </div>
        </div>
     </div>
