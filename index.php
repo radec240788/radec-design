@@ -582,38 +582,38 @@ counter -->
    <div class="row">
      <div class="col-lg-4 col-md-4">
         <div class="blog-box blog-2 h-100 white-bg">        
-        <img class="img-fluid" src="images/about/01.jpg" alt="">
+        <img class="img-fluid" src="images/about/laravel.jpg" style="width: 100%; height: auto;" alt="">
          <div class="blog-info">
-          <span class="post-category"><a href="#">Business</a></span>
-          <h4> <a href="#"> Does your life lack meaning</a></h4>
-          <p>I truly believe Augustine’s words are true.</p>
-          <span><i class="fa fa-calendar-check-o"></i> 21 April 2016 </span>
-          <a class="button icon-color" href="#">Read More<i class="fa fa-angle-right"></i></a>
+          <span class="post-category"><a href="https://www.hostinger.mx/tutoriales/mejores-frameworks-php">Laravel Framework</a></span>
+          <h4> <a href="https://www.hostinger.mx/tutoriales/mejores-frameworks-php"> Conoce mas herramientas</a></h4>
+          <p>El framework mas poderoso y ágil</p>
+          <span><i class="fa fa-calendar-check-o"></i> 4 Dic 2020 </span>
+          <a class="button icon-color" href="https://www.hostinger.mx/tutoriales/mejores-frameworks-php">Leer mas...<i class="fa fa-angle-right"></i></a>
           </div>            
      
         </div>
         </div>
      <div class="col-lg-4 col-md-4">
         <div class="blog-box blog-2 h-100 white-bg active">        
-        <img class="img-fluid" src="images/about/02.jpg" alt="">
+        <img class="img-fluid" src="images/about/seosem.jpg" style="width: 100%; height: auto;" alt="">
          <div class="blog-info">
-          <span class="post-category"><a href="#">Business</a></span>
-          <h4> <a href="#"> Supercharge your motivation</a></h4>          
-          <p>We also know those epic stories, those modern-day.</p>
-          <span><i class="fa fa-calendar-check-o"></i> 21 April 2016 </span>
-          <a class="button icon-color" href="#">Read More<i class="fa fa-angle-right"></i></a>
+          <span class="post-category"><a href="https://www.cyberclick.es/sem/sem-y-seo">SEO y SEM</a></span>
+          <h4> <a href="https://www.cyberclick.es/sem/sem-y-seo"> Servicios de poder</a></h4>          
+          <p>Hoy en día es pieza vital de cualquier sitio web.</p>
+          <span><i class="fa fa-calendar-check-o"></i> 13 Abril 2021 </span>
+          <a class="button icon-color" href="https://www.cyberclick.es/sem/sem-y-seo">Leer mas...<i class="fa fa-angle-right"></i></a>
           </div>  
         </div>
         </div>
      <div class="col-lg-4 col-md-4">
         <div class="blog-box blog-2 h-100 white-bg">
-          <img class="img-fluid" src="images/about/03.jpg" alt="">
+          <img class="img-fluid" src="images/about/marketing.jpg" alt="">
           <div class="blog-info">
-           <span class="post-category"><a href="#">Business</a></span>
-          <h4> <a href="#">  Helen keller a teller & a seller </a></h4>         
-          <p>I truly believe Augustine’s words are true.</p>
-          <span><i class="fa fa-calendar-check-o"></i> 21 April 2016 </span>
-          <a class="button icon-color" href="#">Read More<i class="fa fa-angle-right"></i></a>
+           <span class="post-category"><a href="https://expansion.mx/opinion/2020/12/30/tendencias-de-marketing-en-2021-y-la-continuidad-del-covid-19">Marketing digital</a></span>
+          <h4> <a href="https://expansion.mx/opinion/2020/12/30/tendencias-de-marketing-en-2021-y-la-continuidad-del-covid-19">  Actualidad y tendencias </a></h4>         
+          <p>El mercado digital es el mas fluctuante y avasallante.</p>
+          <span><i class="fa fa-calendar-check-o"></i> 16 Octubre 2021 </span>
+          <a class="button icon-color" href="https://expansion.mx/opinion/2020/12/30/tendencias-de-marketing-en-2021-y-la-continuidad-del-covid-19">Leer mas...<i class="fa fa-angle-right"></i></a>
           </div>
         </div>
       </div>
@@ -634,8 +634,8 @@ counter -->
       <div class="contact-add mb-30"> 
        <div class="text-center">
            <i class="ti-map-alt text-white"></i>
-           <h5 class="mt-15">Address</h5>
-           <p>17504 Carlton Cuevas Rd, Gulfport, MS, 3950</p>
+           <h5 class="mt-15">Dirección</h5>
+           <p>Cuahutémoc 63, Ciudad de México, 09200</p>
           </div>
       </div>
    </div>
@@ -643,8 +643,8 @@ counter -->
       <div class="contact-add mb-30"> 
        <div class="text-center">
          <i class="ti-mobile text-white"></i>
-         <h5 class="mt-15">Call Us</h5>
-         <p>+(704) 279-1249</p>
+         <h5 class="mt-15">Llámanos</h5>
+         <p>55 4906 9544</p>
         </div>
       </div>
    </div>
@@ -652,8 +652,8 @@ counter -->
       <div class="contact-add mb-30"> 
         <div class="text-center">
          <i class="ti-email text-white"></i>
-         <h5 class="mt-15">Email Us</h5>
-         <p>letstalk@webster.com</p>
+         <h5 class="mt-15">Envíanos un email</h5>
+         <p>ventas@radec-design.com.mx</p>
        </div>
       </div>
    </div>
@@ -665,7 +665,7 @@ counter -->
             <form action="php/mailchimp-action.php" method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate">
              <div id="msg"> </div>                 
               <div id="mc_embed_signup_scroll_2">
-                <input id="mce-EMAIL" class="form-control" type="text" placeholder="Email address" name="email1" value="">
+                <input id="mce-EMAIL" class="form-control" type="text" placeholder="Correo electrónico" name="email1" value="">
               </div>
               <div id="mce-responses" class="clear">
                 <div class="response" id="mce-error-response" style="display:none"></div>
@@ -675,7 +675,7 @@ counter -->
                     <input type="text" name="b_b7ef45306f8b17781aa5ae58a_6b09f39a55" tabindex="-1" value="">
                 </div>
                 <div class="clear">
-                  <button type="submit" name="submitbtn" id="mc-embedded-subscribe" class="button button-border mt-20 form-button">  Get notified </button>
+                  <button type="submit" name="submitbtn" id="mc-embedded-subscribe" class="button button-border mt-20 form-button">  Envíanos un email </button>
                 </div>
               </form>
             </div>
