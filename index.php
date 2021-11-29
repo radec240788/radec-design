@@ -507,7 +507,7 @@ counter -->
               </div>    
               <div class="team-description"> 
                 <div class="team-info"> 
-                   <h5><a href="team-single.html"> Francisco Valdéz</a></h5>
+                   <h5><a href="team-single.html"> Julio Benavidez</a></h5>
                    <span>Programming leader</span>
                 </div>
                </div>
