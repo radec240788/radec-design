@@ -1,7 +1,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="keywords" content="HTML5, Digital agency, sales, consulting, marketing, creative agency, web developer, apps, code, webpages, landingpages, administrators, web administrators, hosting, plans, pricing, marketing agency, digital platform, web solutiuons" />
+<meta name="keywords" content="HTML5, Digital agency, sales, consulting, marketing, creative agency, web developer, apps, code, webpages, landingpages, administrators, web administrators, hosting, plans, pricing, marketing agency, digital platform, web solutiuons, desarrollo web, creacion de sitios, páginas web, hosting, domains" />
 <meta name="description" content="Radec-Design Digital Agency and Consulting team es tu mejor opción para optimizar tu sitio web, iniciarlo desde 0 o crear administradores personalizados que incrementen tu productivdad. Simplificamos procesos de tu actual empresa y los eficientamos de acuerdo nuestras áreas de experiencia" />
 <meta name="author" content="radec2407@gmail.com" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
