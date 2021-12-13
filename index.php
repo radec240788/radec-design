@@ -48,7 +48,7 @@ Acerca de nosotros- -->
         <div class="row">
             <div class="col-lg-6">
                 <div class="section-title">
-                    <h2 class="text-white">Realizamo proyectos integrales</h2>
+                    <h2 class="text-white">Realizamos proyectos integrales</h2>
                     <p class="text-white">Ofrecemos herramientas funcionales que solucionen tus problemáticas y puedan ayudar a gestionar tu información.</p>
                 </div> 
                 <p class="text-white">Somos una agencia digital donde nos especializamos en la creación de páginas web, contamos con estrategias publicitarias que te ayudarán a traer más visitas y te permitirán ofrecer una mejor visualización de tu producto. Podemos crear sitios a la medida desde cero o si ya cuentas con uno te ayudamos a innovarlo.</p>
