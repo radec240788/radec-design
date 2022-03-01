@@ -270,7 +270,7 @@ counter -->
                    </div>
                   <hr class="light mt-30">
                    <div class="pricing-prize mb-0">
-                     <h2 class="text-white">$6,000 /<span> Pago único</span> </h2>
+                     <h2 class="text-white">$4,000 /<span> Pago único</span> </h2>
                    </div>
                  </div>
                  <div class="pricing-content mt-0 pb-30">
@@ -332,7 +332,7 @@ counter -->
                    </div>
                   <hr class="light mt-30">
                    <div class="pricing-prize mb-0">
-                     <h2 class="text-white">desde $20,000 /<span> Pago mediante etapas</span> </h2>
+                     <h2 class="text-white">desde $12,000 /<span> Pago mediante etapas</span> </h2>
                    </div>
                  </div>
                  <div class="pricing-content mt-0 pb-30">
@@ -397,7 +397,7 @@ counter -->
                    </div>
                   <hr class="light mt-30">
                    <div class="pricing-prize mb-0">
-                     <h2 class="text-white">$14,500 /<span> Pago en dos etapas</span> </h2>
+                     <h2 class="text-white">$8,500 /<span> Pago en dos etapas</span> </h2>
                    </div>
                  </div>
                  <div class="pricing-content mt-0 pb-30">
