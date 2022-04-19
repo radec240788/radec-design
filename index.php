@@ -465,54 +465,43 @@ counter -->
 
 <section class="page-section-ptb">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-md-8">
-        <div class="section-title text-center">
-          <h6>Conoce a nuestro equipo</h6>
-          <h3>Nuevas tendencias en nuestras áreas a nivel mundial.</h3>
-        </div>
-      </div>
-    </div>
-   <div class="row">
-        <div class="col-lg-4 col-md-4 sm-mb-30">
-           <div class="team">
-              <div class="team-photo">
-                <img class="img-fluid mx-auto" style="width:200px; height:200px;" src="images/team/07.jpg" alt=""> 
-              </div>    
-              <div class="team-description"> 
-                <div class="team-info"> 
-                   <h5><a href="team-single.html"> Fernando Valdovinos</a></h5>
-                   <span>CEO and DevOps</span>
-                </div>
+    <br><br><br>
+    <div class="business-feature-top">
+        <div class="row">
+           <div class="col-md-4 col-sm-4 border-end">
+             <div class="feature-text p-4">
+             <div class="feature-icon">
+              <span class="ti-desktop theme-color"></span>
+              </div>
+              <div class="feature-info">
+                  <h5>Actualización de proyectos</h5>
+                   <p>Puedes ver los cambios de tu proyecto a través de una <span class="theme-color" data-bs-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Won 10+ Awards">dirección privada.</span> La cantidad y periocidad pueden variar.</p>
                </div>
            </div>
           </div>
-          <div class="col-lg-4 col-md-4 sm-mb-30">
-           <div class="team">
-              <div class="team-photo">
-                <img class="img-fluid mx-auto" style="width:200px; height:200px;" src="images/team/05.jpg" alt=""> 
-              </div>    
-              <div class="team-description"> 
-                <div class="team-info"> 
-                   <h5><a href="team-single.html"> Kenia Naranjo</a></h5>
-                   <span>Marketing leader</span>
-                </div>
+          <div class="col-md-4 col-sm-4 border-end">
+             <div class="feature-text p-4">
+             <div class="feature-icon">
+              <span class="ti-headphone theme-color"></span>
+              </div>
+              <div class="feature-info">
+                <h5>Comunicación Ágil</h5>
+                 <p>Te mantendremos informado durante el proceso de desarrollo.</p>
                </div>
            </div>
           </div>
-          <div class="col-lg-4 col-md-4 xs-mb-30">
-           <div class="team">
-              <div class="team-photo">
-                <img class="img-fluid mx-auto" style="width:200px; height:200px;" src="images/team/06.jpg" alt=""> 
-              </div>    
-              <div class="team-description"> 
-                <div class="team-info"> 
-                   <h5><a href="team-single.html"> Julio Benavidez</a></h5>
-                   <span>Programming leader</span>
-                </div>
-               </div>
+           <div class="col-md-4 col-sm-4">
+             <div class="feature-text p-4">
+             <div class="feature-icon">
+              <span class="ti-shield theme-color"></span>
+              </div>
+              <div class="feature-info">
+                  <h5>Seguridad y protección de datos</h5>
+                   <p>Operamos bajo el protocolo HTTPS, tus sitios siempre pasarán cualquier escaneo en cuanto a cosntrucción de sitios. </p>
+              </div>
            </div>
-          </div>  
+          </div>
+         </div>
        </div>
      </div>
   </section>

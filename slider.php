@@ -193,87 +193,19 @@
                 <li data-index="rs-765" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="images/bg/desk1.jpg"  data-delay="8000"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
                     <!-- MAIN IMAGE -->
                     <img src="images/bg/desk1.jpg"  alt=""  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-                    <!-- LAYERS -->
 
-                    <!-- LAYER NR. 18 -->
-                    <div class="tp-caption   tp-resizeme" 
-                    id="slide-765-layer-1" 
-                    data-x="center" data-hoffset="" 
-                    data-y="center" data-voffset="10" 
-                    data-width="['auto']"
-                    data-height="['auto']"
-
-                    data-type="text" 
-                    data-responsive_offset="on" 
-
-                    data-frames='[{"delay":1500,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                    data-textAlign="['center','center','center','center']"
-                    data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-
-                    style="z-index: 5; white-space: nowrap; font-size: 90px; line-height: 100px; font-weight: 400; color: #0a0a0a; letter-spacing: 0px;font-family:Montserrat;"><span style="color: white;">Hacemos que tu <b>MARCA</b> <br/>impacte </span></div>
-
-                    <!-- LAYER NR. 21 -->
-                    <div class="tp-caption   tp-resizeme" 
-                    id="slide-765-layer-5" 
-                    data-x="1248" 
-                    data-y="bottom" data-voffset="" 
-                    data-width="['none','none','none','none']"
-                    data-height="['none','none','none','none']"
-
-                    data-type="image" 
-                    data-responsive_offset="on" 
-
-                    data-frames='[{"delay":100,"speed":3000,"frame":"0","from":"y:[-90%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                    data-textAlign="['inherit','inherit','inherit','inherit']"
-                    data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-
-                    style="z-index: 8;"><img src="revolution/assets/slider-06/952ba-clock.png" alt="" data-ww="auto" data-hh="auto" data-no-retina> </div>
-
-                    <!-- LAYER NR. 23 -->
-                    <div class="tp-caption   tp-resizeme" 
-                    id="slide-765-layer-7" 
-                    data-x="940" 
-                    data-y="bottom" data-voffset="" 
-                    data-width="['none','none','none','none']"
-                    data-height="['none','none','none','none']"
-
-                    data-type="image" 
-                    data-responsive_offset="on" 
-
-                    data-frames='[{"delay":500,"speed":3000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","mask":"x:0px;y:[100%];s:inherit;e:inherit;","to":"o:1;","ease":"Power2.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                    data-textAlign="['inherit','inherit','inherit','inherit']"
-                    data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-
-                    style="z-index: 10;"><img src="revolution/assets/slider-06/1c427-3.png" alt="" data-ww="258px" data-hh="209px" data-no-retina> </div>
-
-                    <!-- LAYER NR. 25 -->
-                    <div class="tp-caption   tp-resizeme" 
-                    id="slide-765-layer-9" 
-                    data-x="right" data-hoffset="-11" 
-                    data-y="" 
-                    data-width="['none','none','none','none']"
-                    data-height="['none','none','none','none']"
-
-                    data-type="image" 
-                    data-responsive_offset="on" 
-
-                    data-frames='[{"delay":280,"speed":3000,"frame":"0","from":"y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
-                    data-textAlign="['inherit','inherit','inherit','inherit']"
-                    data-paddingtop="[0,0,0,0]"
-                    data-paddingright="[0,0,0,0]"
-                    data-paddingbottom="[0,0,0,0]"
-                    data-paddingleft="[0,0,0,0]"
-
-                    style="z-index: 12;"><img src="revolution/assets/slider-06/17988-plan.png" alt="" data-ww="598px" data-hh="324px" data-no-retina> </div>
+                    <div class="slider-content-middle">
+                       <div class="container">
+                         <div class="row">
+                            <div class="col-xl-8 col-lg-12">
+                                <div class="slider-content" style="color: black; text-align: right;">
+                                    <h2 class="title" style="color: #075E54;">Nos encargamos de tu presencia en los canales digitales más beneficiosos para tu empresa.</h2>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-12"></div>
+                        </div>
+                        </div>
+                    </div>
                 </li>
             </ul>
         <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div> </div>
