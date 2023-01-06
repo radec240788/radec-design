@@ -32,7 +32,7 @@
                     <li><a href="charts.html">Especial <span class="badge badge-primary"></span> </a></li>
                 </ul>
             </li>
-            <li><a href="javascript:void(0)"> Branding <i class="fa fa-angle-down fa-indicator"></i></a>
+            <li><a href="javascript:void(0)"> Social Media <i class="fa fa-angle-down fa-indicator"></i></a>
                  <!-- drop down multilevel  -->
                 <ul class="drop-down-multilevel">
                     <li><a href="charts.html">SEO y SEM <span class="badge badge-primary"></span> </a></li>
